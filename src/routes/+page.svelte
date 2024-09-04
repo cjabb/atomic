@@ -24,7 +24,7 @@
 			image:
 				'https://cdn.discordapp.com/avatars/856934780015607858/e13b5867155946a4803665b71f236825.webp?size=1024&format=webp&width=0&height=256',
 			github: 'https://github.com/rolxndxd',
-			linkedin: '',
+			linkedin: 'https://www.linkedin.com/in/roland-chalhoub-5aa502244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
 			email: 'rolandchalhoub134@gmail.com',
 			skills: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java']
 		}
